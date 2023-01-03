@@ -1,0 +1,14 @@
+/* styles.css */
+
+div {
+    font-size: 32px;
+    text-align: center;
+    font-weight: 700;
+    color: white;
+    background-color: red
+    
+}
+
+p {
+    color: red;
+}
