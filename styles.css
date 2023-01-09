@@ -1,14 +1,21 @@
 /* styles.css */
 
-div {
+#id1 {
     font-size: 32px;
     text-align: center;
     font-weight: 700;
     color: white;
-    background-color: red
+    background-color: red;
+    font-family: 'Times New Roman', Times, serif;
     
 }
 
 p {
-    color: red;
+    color: black;
+}
+button {
+    background-color: yellowgreen;
+    font-weight: bolder;
+    font-size: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
